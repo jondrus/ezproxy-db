@@ -3006,7 +3006,7 @@
   },
   {
     "name": "ESSEC Business School",
-    "url": "https://login.ezp.essec.fr/login?url=$@",
+    "url": "https://login.essec.idm.oclc.org/login?url=$@",
     "location": {
       "lng": 2.078274,
       "lat": 49.0333771
